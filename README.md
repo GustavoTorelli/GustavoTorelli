@@ -11,7 +11,7 @@
 <!-- Redes Sociais E Portfólio -->
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavotorellidesouza/" target="_blank">
-    <img src="./img/linkedin-icon.png" height="70" />
+    <img src="./img/icon-lk.png" height="70" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://gustavo-torelli.vercel.app/" target="_blank">
