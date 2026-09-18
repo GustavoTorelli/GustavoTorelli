@@ -9,11 +9,10 @@
 <br>
 
 <!-- Redes Sociais E Portfólio -->
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px">
   <a href="https://www.linkedin.com/in/gustavotorellidesouza/" target="_blank">
     <img src="./img/icon-lk.png" height="70" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://gustavo-torelli.vercel.app/" target="_blank">
     <img src="./img/icon-globe.png" height="70" />
   </a>
@@ -26,30 +25,52 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Meu nome é Gustavo Torelli de Souza, tenho 19 anos e sou Técnico em Desenvolvimento de Sistemas pelo SENAI e estou cursando de Engenharia de Software na Universidade São Judas Tadeu (USJT).
+Olá! Meu nome é Gustavo Torelli de Souza, tenho 19 anos, sou Técnico em Desenvolvimento de Sistemas pelo SENAI e estou cursando de Engenharia de Software na Universidade São Judas Tadeu (USJT).
 Tenho grande interesse em tecnologia e busco constantemente aprimorar minhas habilidades para me tornar um desenvolvedor completo, capaz de unir lógica, design e boas práticas de programação.
 
 ---
 
 <br>
 
-<!-- Terminal -->
+**`Técnologias`**
 
-```bash
-$ fetching user-data...
-✔ Loading profile
-✔ Installing skills
-✔ Finalizing setup
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px">
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+<img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
 
-$ cat gustavo.json
-{
-  "location": "Brasil, SP",
-  "learning": ["JavaScript", "TailwindCSS", "NextJS", "MySQL", "PostgreSQL", "Docker", "Linux"],
-  "languages": ["Português (Nativo)", "Inglês (Básico)"]
-}
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
 
-$ _
-```
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+<img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
+
+
+<!-- Databases / ORM -->
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+
+<!-- Tools / DevOps -->
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+</div>
+
+---
 
 <br>
 
